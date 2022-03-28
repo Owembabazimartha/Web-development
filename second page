@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>second page</title>
+	</head>	
+	<body>
+	    <tableborder="2">
+		<tr>
+		   <th>owembabazi martha  lisa </th>
+		   <pre>
+		        this is mi first page
+		        first page
+				helo world
+		   </pre> 
+		</tr>
+		<a href=owembabazi.html>go to first page</a>
+		<img src ="image.jpeg"> 
+	</body>	 
+</html>	
